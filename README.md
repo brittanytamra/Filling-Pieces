@@ -1,6 +1,6 @@
 # Filling-Pieces
 
-Link to Project:
+Link to Project: https://brittanytamra.github.io/Filling-Pieces/
 
 TECH USED: HTML, CSS
 
